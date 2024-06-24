@@ -149,3 +149,4 @@ if __name__ == '__main__':
     wave_packet_app = WavePacketApp()
     wave_packet_app.show()
     sys.exit(app.exec_())
+
